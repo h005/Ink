@@ -52,4 +52,4 @@ defaults:
 gems:
   - jekyll-paginate
   
-show_drafts: BOOL
+show_drafts: true 
