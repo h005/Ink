@@ -17,8 +17,9 @@
 
 ## Ubuntu 16.04 sublime 无法输入中文解决方案
 
-参考这篇[博客](http://www.jianshu.com/p/bf05fb3a4709)去解决的
+参考[http://www.jianshu.com/p/bf05fb3a4709](http://www.jianshu.com/p/bf05fb3a4709)去解决的
 
 强烈建议使用上文中的第一条办法去解决，最为简单
 
 [https://github.com/lyfeyaj/sublime-text-imfix](https://github.com/lyfeyaj/sublime-text-imfix)
+
